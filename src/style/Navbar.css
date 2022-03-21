@@ -1,0 +1,47 @@
+
+.navbar{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    
+}
+.rightside{
+ 
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.leftside{
+    
+    width: 50%;
+    display: flex;
+   
+    padding-left: 150px;
+    height: 100%;
+
+}
+
+.navbar a {
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    font-size: 20px;
+  }
+
+  #rdv{
+      color: white;
+      background-color: black;
+      border: solid black;
+      border-radius: 5px;
+  }
+  #rdv:hover{
+      font-size: 30px;
+  }
+
+
+  
